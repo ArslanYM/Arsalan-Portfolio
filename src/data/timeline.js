@@ -15,10 +15,10 @@ export default [
 	},
 	{
 		year: '2023',
-		title: 'Engineer Intern',
+		title: 'Engineer Intern at Brainery Spot',
 		duration: '1 Month',
 		details:
-			" I learnt about technologies like React , Flutter , Frameworks. I also learnt about the basics of : Flutter · HTML5 · HTML Scripting · Cascading Style Sheets (CSS) · JavaScript · HTML ",
+			" I learnt about methods to integrate AI and machine learning technologies with webapps using API's . Also worked on projects based on AI",
 	},
 	{
 		year: '2022',
